@@ -78,8 +78,6 @@ flowchart TD
 ```
 
 
-
-
 **Sample output running test_project.py:**
 ```text
 ============================================================
